@@ -1,0 +1,11 @@
+* {
+    color: aliceblue;
+    background-color: #292d33;
+}
+
+#grid {
+    width: 400px;
+    height: 300px;
+    display: flex;
+    flex-wrap: wrap;
+}
